@@ -1,5 +1,8 @@
 _repo: Pee-wee-Harris-F-O-B-Bridgeboro_59405
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 59405-h/images/cover.jpg
 creator:
   author:
     agent_name: Fitzhugh, Percy Keese
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2132
     wikipedia: http://en.wikipedia.org/wiki/Percy_Keese_Fitzhugh
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/59405#Pee-wee-Harris-F-O-B-Bridgeboro
 gutenberg_issued: '2019-05-01'
 gutenberg_type: Text
 identifiers:
